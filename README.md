@@ -12,7 +12,7 @@
 
 ## UI Screen & Hardware 
 
-![image](http://github.com/bipark/billy_raspberry_server/blob/master/html.png?raw=true)
+![image](http://pnet.kr/html.jpg)
 
 
-![image](https://github.com/bipark/billy_raspberry_server/blob/master/raspberry.jpg?raw=true)
+![image](https://pnet.kr/raspberry.jpg)
