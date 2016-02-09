@@ -1,6 +1,5 @@
 # Billy_Raspberry_Server
-	Raspberry_Pi_Server is simple server for raspberry-pi include web user interface.
-	This consists of Node.js, Express.js, jQuery and Bootstrap. 
+	Billy_Raspberry_server is simple server for raspberry-pi include web user interface using Nodejs.
 	You can use your home iot server on raspberry pi.
 
 ## Dependency
@@ -13,9 +12,11 @@
 
 ## Installation & Run
 
-	Clone this repository
-	$ npm install
-	$ sudo npm start
+*	Clone this repository
+*	$ npm install
+* 	$ sudo npm start
+* 	You have to change /public/javascripts/consrols.js - CONNECT SERVER IP ADDRESS
+	
 
 ## UI Screen & Hardware 
 
