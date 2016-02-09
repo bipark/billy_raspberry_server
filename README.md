@@ -24,3 +24,6 @@
 
 
 ![image](http://pnet.kr/raspberry.jpg)
+
+## License
+*	MIT license
