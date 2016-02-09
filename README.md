@@ -10,6 +10,8 @@
 	$ npm install
 	$ sudo npm start
 
-## 
+## UI Screen & Hardware 
 
-![image](http://)
+![image](http://github.com/bipark/billy_raspberry_server/blob/master/html.png?raw=true)
+
+![image](https://github.com/bipark/billy_raspberry_server/blob/master/raspberry.jpg?raw=true)
