@@ -20,10 +20,13 @@
 
 ## UI Screen & Hardware 
 
-![image](http://pnet.kr/html.jpg)
+![image](https://github.com/bipark/billy_raspberry_server/blob/master/html.jpg?raw=true)
 
 
-![image](http://pnet.kr/raspberry.jpg)
+![image](https://github.com/bipark/billy_raspberry_server/blob/master/raspberry.jpg?raw=true)
+
+
+![image](https://github.com/bipark/billy_raspberry_server/blob/master/raspberry-pin.jpg?raw=true)
 
 ## License
 *	MIT license
